@@ -1,0 +1,2 @@
+docker build -t vcc-flask .
+docker run -P --rm vcc-flask:latest
